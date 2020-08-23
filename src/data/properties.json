@@ -1,0 +1,54 @@
+[
+    {
+    "id":1,
+    "SellRent": 1,
+    "name":"Bungalo",
+    "type":"House",
+    "price":1200,
+    "image": "prop-1"
+
+},
+{
+  "id":2,
+  "SellRent": 2,
+  "name":"Bango",
+  "type":"Mansion",
+  "price":12200,
+  "image": "prop-2"
+
+},
+{
+  "id":3,
+  "SellRent": 1,
+  "name":"Bungalo",
+  "type":"House",
+  "price":1200,
+  "image": "prop-3"
+
+},
+{
+  "id":4,
+  "SellRent": 1,
+  "name":"Bungalo",
+  "type":"House",
+  "price":1200,
+  "image": "prop-4"
+
+},
+{
+  "id":5,
+  "SellRent": 2,
+  "name":"101 Drewy Lane",
+  "type":"Villa",
+  "price":2200,
+  "image": "prop-5"
+
+},
+{
+  "id":6,
+  "SellRent": 1,
+  "name":"12 Maple St.",
+  "type":"Quartes",
+  "price":3200
+}
+  ]
